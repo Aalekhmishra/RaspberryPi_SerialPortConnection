@@ -1,0 +1,37 @@
+Received_Value,Mapping
+b'g',1
+b'3',2
+b'f',3
+b'\x19',4
+b'e',5
+b'2',6
+b'd',7
+b'c',9
+b'\x06',0
+b'O',a
+"b""'""",b
+b'N',c
+b'\x13',d
+b'M',e
+b'&',f
+b'L',g
+b'K',i
+b'%',j
+b'J',k
+b'\x12',l
+b'I',m
+b'$',n
+b'H',o
+b'\x04',p
+b'G',q
+b'#',r
+b'F',s
+b'\x11',t
+b'E',u
+"b'""'",v
+b'D',w
+b'\x08',x
+b'C',y
+b'!',z
+b'g',& C:/Users/aalek/AppData/Local/Programs/Python/Python311/python.exe c:/Project_RaspberryPi/decoded.py
+b'',& C:/Users/aalek/AppData/Local/Programs/Python/Python311/python.exe c:/Project_RaspberryPi/decoded.py
